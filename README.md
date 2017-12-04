@@ -2,7 +2,7 @@
 
 This repositories contains exercises demonstrating how to build [ISA](http://isa-tools.org)-based experimental descriptions programmatically and based on concepts from the study design.
 
-The exercises are presented in the form of Jupyter notebooks to be run with Python 3.
+The exercises are presented in the form of [Jupyter](http://jupyter.org/) notebooks to be run with Python 3.
 
 ## Run in binder
 
