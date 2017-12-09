@@ -20,5 +20,5 @@ If you do not want to use a [virtual environment](http://docs.python-guide.org/e
 
 1. ```virtualenv my_project```
 2. ```source my_project/bin/activate```
-3. ```pip install -r requirements.txt``
+3. ```pip install -r requirements.txt```
 4. ```jupyter notebook```
