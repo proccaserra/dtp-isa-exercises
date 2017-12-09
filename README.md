@@ -8,7 +8,7 @@ The exercises are presented in the form of [Jupyter](http://jupyter.org/) notebo
 
 You can run the notebooks in this repository using the [Binder](https://mybinder.org/) tool by clicking on the button below:
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ISA-tools/dtp-isa-exercises/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ISA-tools/dtp-isa-exercises/master?filepath=exercise.ipynb)
 
 For more information on how the Binder tool works, check [its documentation](https://mybinder.readthedocs.io).
 
