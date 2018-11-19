@@ -24,7 +24,7 @@ jsonpickle==0.9.5
 jsonschema==2.6.0
 jupyter-client>=5.2.3
 jupyter-contrib-core==0.3.1
-jupyter-core==4.3.0
+jupyter_core>=4.4.0
 jupyter-dashboards==0.7.0
 jupyter-nbextensions-configurator==0.2.5
 lxml==4.0.0
@@ -51,12 +51,12 @@ python-dateutil==2.6.1
 python-utils==2.2.0
 pytz==2017.2
 PyYAML==3.12
-pyzmq==16.0.2
+pyzmq>=17
 qgrid==0.3.3
 requests>=2.20.0
 simplegeneric==0.8.1
 six==1.11.0
-terminado==0.6
+terminado>=0.8.1
 testpath==0.3.1
 tornado==4.5.1
 traitlets==4.3.2
