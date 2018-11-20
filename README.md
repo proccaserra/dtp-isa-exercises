@@ -19,7 +19,7 @@ You can also choose to run the notebooks in your local machine, as detailed belo
 If you do not want to use a [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/), skip the first two steps below:
 
 1. Clone this repository: ```git clone https://github.com/ISA-tools/dtp-isa-exercises.git```  
-1.```virtualenv my_venv```
+1. ```virtualenv my_venv```
 1. ```source my_venv/bin/activate```
 1. ```pip install -r requirements.txt```
 1. ```jupyter notebook```
