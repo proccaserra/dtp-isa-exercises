@@ -11,7 +11,7 @@ entrypoints==0.2.3
 et-xmlfile==1.0.1
 html5lib==0.999999999
 idna==2.6
-ipykernel==4.6.1
+ipykernel
 ipython==6.1.0
 ipython-genutils==0.2.0
 ipywidgets
@@ -57,7 +57,7 @@ simplegeneric==0.8.1
 six==1.11.0
 terminado>=0.8.1
 testpath==0.3.1
-tornado==4.5.1
+tornado
 traitlets==4.3.2
 urllib3==1.22
 wcwidth==0.1.7
