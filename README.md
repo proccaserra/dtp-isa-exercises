@@ -23,4 +23,16 @@ If you do not want to use a [virtual environment](http://docs.python-guide.org/e
 1. Create a virtual environment: ```virtualenv my_venv```
 1. Activate the virtual environment ```source my_venv/bin/activate```
 1. Install all the requirements: ```pip install -r requirements.txt```
-1. Run a notebook: ```jupyter notebook```
+1. Run jupyter notebook: ```jupyter notebook```
+
+If your system has multiple python versions, you might need to run spefically *python3* and *pip3*, as follows:
+
+1. Clone this repository: ```git clone https://github.com/ISA-tools/dtp-isa-exercises.git```  
+1. Get into the repository: ```cd dtp-isa-exercises```
+1. Create a virtual environment, making sure it uses *python3*: ```virtualenv -p python3 my_venv```
+1. Activate the virtual environment ```source my_venv/bin/activate```
+1. Make sure you are running the latest versions of *pip* and *setuptools*:
+   1. ```pip3 install --upgrade pip```
+   1. ```pip3 install --upgrade setuptools```
+1. Install all the requirements: ```pip3 install -r requirements.txt```
+1. Run jupyter notebook: ```jupyter notebook```
