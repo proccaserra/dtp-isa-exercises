@@ -6,7 +6,9 @@ The exercises are presented in the form of [Jupyter](http://jupyter.org/) notebo
 
 For instructions on how to run it, please see the sections below.
 
-This repositories contains the [“Jupyter Notebooks - Introduction”](https://github.com/ISA-tools/dtp-isa-exercises/blob/master/Jupyter_Notebook_Introduction.ipynb) and the [“ISA Jupyter Notebook - Exercise”](https://github.com/ISA-tools/dtp-isa-exercises/blob/master/Jupyter_Notebook_ISA_Exercise.ipynb).
+This repositories contains the following notebooks:
+- [“Jupyter Notebooks - Introduction”](https://github.com/ISA-tools/dtp-isa-exercises/blob/master/Jupyter_Notebook_Introduction.ipynb) 
+- [“ISA Jupyter Notebook - Exercise”](https://github.com/ISA-tools/dtp-isa-exercises/blob/master/Jupyter_Notebook_ISA_Exercise.ipynb).
 
 The introduction will show how Jupyter notebooks work (open this notebook first) and the exercise demonstrates how to build ISA-based experimental descriptions programmatically, using the concepts from the study design.
 
