@@ -4,6 +4,12 @@ This repository contains exercises demonstrating how to build Investigation/Stud
 
 The exercises are presented in the form of [Jupyter](http://jupyter.org/) notebooks to be run with Python 3.
 
+For instructions on how to run it, please see the sections below.
+
+We include two notebooks:
+- 'Introduction to Jupyter Notebooks'
+- 'ISA Jupyter Notebook Exercise'
+
 ## Run in binder
 
 You can run the notebooks in this repository using the [Binder](https://mybinder.org/) tool by clicking on the button below:
