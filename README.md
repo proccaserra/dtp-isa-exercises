@@ -6,7 +6,7 @@ The exercises are presented in the form of [Jupyter](http://jupyter.org/) notebo
 
 For instructions on how to run it, please see the sections below.
 
-This repositories contains the following notebooks:
+This repository contains the following notebooks:
 - [“Jupyter Notebooks - Introduction”](https://github.com/ISA-tools/dtp-isa-exercises/blob/master/Jupyter_Notebook_Introduction.ipynb) 
 - [“ISA Jupyter Notebook - Exercise”](https://github.com/ISA-tools/dtp-isa-exercises/blob/master/Jupyter_Notebook_ISA_Exercise.ipynb).
 
