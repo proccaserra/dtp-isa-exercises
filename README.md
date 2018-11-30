@@ -1,15 +1,15 @@
 # Exercises for creating ISA-based experimental descriptions
 
 This repository contains the following notebooks:
-- [“Jupyter Notebook - Introduction”](https://github.com/ISA-tools/dtp-isa-exercises/blob/master/Jupyter_Notebook_Introduction.ipynb): this introduction will show how Jupyter notebooks work (open this notebook first)
-- [“ISA Jupyter Notebook - Exercise”](https://github.com/ISA-tools/dtp-isa-exercises/blob/master/Jupyter_Notebook_ISA_Exercise.ipynb): this exercise demonstrates how to build [ISA](http://isa-tools.org)-based experimental descriptions programmatically, using the concepts from the study design.
+1. [“Jupyter Notebook - Introduction”](https://github.com/ISA-tools/dtp-isa-exercises/blob/master/Jupyter_Notebook_Introduction.ipynb): this introduction will show how Jupyter notebooks work (open this notebook first)
+1. [“ISA Jupyter Notebook - Exercise”](https://github.com/ISA-tools/dtp-isa-exercises/blob/master/Jupyter_Notebook_ISA_Exercise.ipynb): this exercise demonstrates how to build [ISA](http://isa-tools.org)-based experimental descriptions programmatically, using the concepts from the study design.
 
 
 ## Run in binder
 
 You can run the notebooks in this repository using the [Binder](https://mybinder.org/) tool by clicking on the button below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ISA-tools/dtp-isa-exercises/master?filepath=exercise.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ISA-tools/dtp-isa-exercises/master)
 
 For more information on how the Binder tool works, check [its documentation](https://mybinder.readthedocs.io).
 
