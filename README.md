@@ -1,7 +1,7 @@
 # Exercises for creating ISA-based experimental descriptions
 
 This repository contains the following notebooks:
-- [“Jupyter Notebooks - Introduction”](https://github.com/ISA-tools/dtp-isa-exercises/blob/master/Jupyter_Notebook_Introduction.ipynb): this introduction will show how Jupyter notebooks work (open this notebook first)
+- [“Jupyter Notebook - Introduction”](https://github.com/ISA-tools/dtp-isa-exercises/blob/master/Jupyter_Notebook_Introduction.ipynb): this introduction will show how Jupyter notebooks work (open this notebook first)
 - [“ISA Jupyter Notebook - Exercise”](https://github.com/ISA-tools/dtp-isa-exercises/blob/master/Jupyter_Notebook_ISA_Exercise.ipynb): this exercise demonstrates how to build [ISA](http://isa-tools.org)-based experimental descriptions programmatically, using the concepts from the study design.
 
 
